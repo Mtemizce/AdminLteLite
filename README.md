@@ -10,5 +10,5 @@ Bu repoda yer alan adminlte-lite.js dosyasının içeriğini tema klasörünüzd
 - NavbarSearch.js
 - Toasts.js
 
-Yukarıdaki pluginler harici main olarak yüklenen başka hiç bir ayar yoktur.
+Yukarıdaki pluginler harici main olarak yüklenen başka hiç bir ayar yoktur. Sourcemap dosyasını vaktim olduğunda güncelleyip atacağım.
 
